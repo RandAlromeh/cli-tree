@@ -1,0 +1,16 @@
+cat camp/notes/tree.txt
+camp:
+notes/
+projects/
+
+camp/notes:
+day1.md
+hello.txt
+inspiration.md
+tree.txt
+
+camp/projects:
+week1/
+
+camp/projects/week1:
+hello.txt
